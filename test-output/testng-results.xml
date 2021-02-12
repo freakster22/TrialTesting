@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="40907" started-at="2021-01-11T10:52:27Z" finished-at="2021-01-11T10:53:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="40907" started-at="2021-01-11T10:52:27Z" finished-at="2021-01-11T10:53:08Z">
+      <class name="org.apache.maven.plugins.REALM.Driverscript1">
+        <test-method status="PASS" signature="driverScript()[pri:0, instance:org.apache.maven.plugins.REALM.Driverscript1@1139b2f3]" name="driverScript" duration-ms="40895" started-at="2021-01-11T16:22:27Z" finished-at="2021-01-11T16:23:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverScript -->
+        <test-method status="PASS" signature="Email()[pri:0, instance:org.apache.maven.plugins.REALM.Driverscript1@1139b2f3]" name="Email" is-config="true" duration-ms="1" started-at="2021-01-11T16:23:08Z" finished-at="2021-01-11T16:23:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Email -->
+      </class> <!-- org.apache.maven.plugins.REALM.Driverscript1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
